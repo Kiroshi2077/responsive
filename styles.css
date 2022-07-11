@@ -50,7 +50,7 @@ h1{
   padding: 5px;
   right: 40px;
 }
-.contactMe-btn:hover .dropdown{
+.contactMe-btn:hover .dropdown, .contactMe-btn:active .dropdown{
   display: block;
 }
 .contactMe-btn{
